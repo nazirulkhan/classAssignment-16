@@ -1,0 +1,94 @@
+html{
+    scroll-behavior: smooth;
+}
+.header{
+    background: #130e46;
+}
+.header-logo img{
+    width: 90px;
+    padding-top: 5px;
+}
+.primary-menu ul{
+    margin-bottom: 0;
+    text-align: right;
+
+}
+.primary-menu ul li{
+    display: inline-block;
+    list-style: none;
+    margin-left: -4px;
+}
+.primary-menu ul li a{
+    display: block;
+    color: #fff;
+    padding: 0 20px;
+    font-size: 20px;
+    line-height: 70px;
+    
+}
+.banner{
+    background-image: url(./intro-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 300px 200px;
+    color: #fff;
+}
+.banner-text h2{
+    padding: 20px;
+}
+.banner-text p{
+    padding-bottom: 20px;
+}
+
+.button a{
+    padding: 15px;
+    border-radius: 10px;
+    font-weight: 600;
+    text-decoration: none;
+    background-color: #2980b9;
+    display: inline-block;
+    border-style: none;
+    color: rgb(200, 200, 200);
+}
+.service{
+    background: #cec1ff;
+}
+.service h1{
+    font-size: 50px;
+    padding: 50px;
+}
+
+.profile h4{
+    margin-top: 10px;
+}
+.profile p{
+    padding: 10px 100px;
+}
+.service .button a{
+    padding: 8px;
+    border-radius: 5px;
+    font-weight: 600;
+    text-decoration: none;
+    background-color: #2980b9;
+    display: inline-block;
+    border-style: none;
+    color: rgb(200, 200, 200);
+}
+.about{
+    background: rgb(191, 220, 231);
+    padding: 100px;
+}
+.contact{
+    background: #f1f1f1;
+    
+}
+.btn{
+    background: #78bbe7;
+}
+.footer{
+    background: #066bad;
+
+}
+.footer p{
+    padding: 0px 375px;
+}
